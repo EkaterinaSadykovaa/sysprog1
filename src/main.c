@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 
     exit(0);
 }
-
+//234
 void filecopy(FILE *ifp, FILE *ofp)
 {
     int c;
